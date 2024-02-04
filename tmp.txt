@@ -1,10 +1,3 @@
-Hello it's me.
-I was wondering if after all these years you'd like to meet.
-<<<<<<< HEAD
-To go over everything. master
-=======
-To go over everything. bbbbbbb
->>>>>>> b
-hello -adele
-grammy
-fix it
+I am batman.
+I want to fk tiger.
+I remember March 3rd.
