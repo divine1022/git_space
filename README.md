@@ -1,3 +1,4 @@
-# 致敬我第73好的朋友KQJ
+# learning git
 
-此人在2020年的某场比赛中失去了自我，但是在2023年底找到了自己一生的挚爱YSY，祝他们幸福！
+1. [Git Pro2中文](https://bingohuang.gitbooks.io/progit2/content/)
+2. [Learning Git Branch](https://learngitbranching.js.org/?locale=zh_CN)
